@@ -1,0 +1,17 @@
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.csproj.SuggestedBindingRedirects.cache
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.Form1.resources
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.frmAraçOtoparkYerleri.resources
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.Properties.Resources.resources
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\bin\Debug\OTOPARKOTOMASYONU2.exe.config
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\bin\Debug\OTOPARKOTOMASYONU2.exe
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\bin\Debug\OTOPARKOTOMASYONU2.pdb
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.exe
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.pdb
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.frmAraçOtoparkKaydı.resources
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.frmMarka.resources
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.frmSeri.resources
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.frmAraçOtoparkÇıkışı.resources
+C:\Users\melih\source\repos\OTOPARKOTOMASYONU2\OTOPARKOTOMASYONU2\obj\Debug\OTOPARKOTOMASYONU2.frmSatışcs.resources
